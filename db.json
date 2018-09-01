@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Mountain goat","category":"Goldenrod"},
+{"id":2,"name":"Brindled gnu","category":"Mauv"},
+{"id":3,"name":"Sage grouse","category":"Blue"},
+{"id":4,"name":"Sloth, hoffman's","category":"Khaki"},
+{"id":5,"name":"Macaw, blue and gold","category":"Red"},
+{"id":6,"name":"Lynx, african","category":"Blue"},
+{"id":7,"name":"Eagle, long-crested hawk","category":"Puce"},
+{"id":8,"name":"Heron, green-backed","category":"Violet"},
+{"id":9,"name":"Bonnet macaque","category":"Aquamarine"},
+{"id":10,"name":"Lappet-faced vulture","category":"Purple"},
+{"id":11,"name":"Francolin, coqui","category":"Red"},
+{"id":12,"name":"Nuthatch, red-breasted","category":"Red"},
+{"id":13,"name":"Red-knobbed coot","category":"Turquoise"},
+{"id":14,"name":"Whale, southern right","category":"Orange"},
+{"id":15,"name":"Oribi","category":"Goldenrod"},
+{"id":16,"name":"Egret, snowy","category":"Indigo"},
+{"id":17,"name":"Skink, african","category":"Turquoise"},
+{"id":18,"name":"Yellow-billed hornbill","category":"Goldenrod"},
+{"id":19,"name":"Brocket, brown","category":"Yellow"},
+{"id":20,"name":"Sambar","category":"Yellow"}
+]
+}
