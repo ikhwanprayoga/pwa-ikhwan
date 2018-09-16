@@ -1,0 +1,17 @@
+{
+  "name": "pwa",
+  "short_name": "pwa",
+  "theme_color": "#2196f3",
+  "background_color": "#ffffff",
+  "lang": "id-ID",
+  "start_url": "/pwa-ikhwan/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/pwa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true
+}
